@@ -61,8 +61,7 @@ bank_api/
 
 1. **Clonar el repositorio**
    ```bash
-   git clone <url-del-repositorio>
-   cd bank_api
+   git clone <https://github.com/Kalabuth/EDSoftware.git>
    ```
 
 2. **Instalar dependencias**
